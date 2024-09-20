@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89d4fc1d-f7f1-4ec2-88e3-31a0ff38f575)![image](https://github.com/user-attachments/assets/2154ad29-5a19-4c5a-b521-471ced79da85)# ECVC
+# ECVC
 The code of ECVC is in preparation.
 
 ### Cite
