@@ -1,2 +1,2 @@
 # ECVC
-The code of ECVC is under preparation.
+The code of ECVC is in preparation.
