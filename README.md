@@ -1,5 +1,5 @@
 # ECVC
-The code of ECVC is in preparation.
+The code will be released after the acceptence of the paper.
 
 ### Cite
 
