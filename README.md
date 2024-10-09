@@ -1,5 +1,5 @@
 # ECVC
-The code will be released after the acceptence of the paper.
+The code and weights of ECVC will be made publicly available upon the acceptance of the paper.
 
 ### Cite
 
