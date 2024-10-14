@@ -2,8 +2,10 @@
 The code and weights of ECVC will be made publicly available upon the acceptance of the paper.
 
 ### Performance
-![image](assets/ip32.png)
-![image](assets/ip-1.png)
+![image](assets/ip32-PSNR.png)
+![image](assets/ip32-SSIM.png)
+![image](assets/ip-1-PSNR.png)
+![image](assets/ip-1-All.png)
 
 ### Cite
 
