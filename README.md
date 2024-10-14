@@ -1,6 +1,10 @@
 # ECVC
 The code and weights of ECVC will be made publicly available upon the acceptance of the paper.
 
+### Performance
+![image](assets/ip32.png)
+![image](assets/ip-1.png)
+
 ### Cite
 
 ```
