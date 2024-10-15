@@ -13,6 +13,7 @@ The code and weights of ECVC will be made publicly available upon the acceptance
 @article{jiang2024ecvc,
   title={ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression},
   author={Jiang, Wei and Li, Junru and Zhang, Kai and Zhang, Li},
+  journal={arXiv preprint arXiv:2410.09706},
   year={2024}
 }
 ```
