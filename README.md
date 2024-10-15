@@ -1,5 +1,5 @@
 # ECVC
-The code and weights of ECVC will be made publicly available upon the acceptance of the paper.
+The code and weights of ECVC will be made publicly available upon the acceptance of the paper [[Arxiv](https://arxiv.org/abs/2410.09706)].
 
 ### Performance
 ![image](assets/ip32-PSNR.png)
