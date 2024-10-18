@@ -9,7 +9,7 @@ The code and weights of ECVC will be made publicly available upon the acceptance
 
 ## Contact
 
-If you have any questions about MLIC, please contact Wei Jiang ( wei.jiang1999@outlook.com or jiangwei@stu.pku.edu.cn )
+If you have any questions about ECVC, please contact Wei Jiang ( wei.jiang1999@outlook.com or jiangwei@stu.pku.edu.cn )
 
 ### Cite
 
