@@ -7,6 +7,10 @@ The code and weights of ECVC will be made publicly available upon the acceptance
 ![image](assets/ip-1-PSNR.png)
 ![image](assets/ip-1-All.png)
 
+## Contact
+
+If you have any questions about MLIC, please contact Wei Jiang ( wei.jiang1999@outlook.com or jiangwei@stu.pku.edu.cn )
+
 ### Cite
 
 ```
