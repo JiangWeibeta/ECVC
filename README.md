@@ -1,4 +1,4 @@
-# [CVPR 2025] ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression
+# <center>[CVPR 2025] ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression</center>
 The code and weights of ECVC will be made publicly available upon the acceptance of the paper [[Arxiv](https://arxiv.org/abs/2410.09706)].
 
 ### Performance
