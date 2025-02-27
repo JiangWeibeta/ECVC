@@ -1,7 +1,7 @@
 <div align="center">
 <h1>ECVC (CVPR 2025)</h1>
 <h3>ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression</h3>
-[![arXiv](https://img.shields.io/badge/arXiv-<2410.09706>-<COLOR>.svg)](https://arxiv.org/abs/2410.09706)
+[[Arxiv](https://arxiv.org/abs/2410.09706)]
 </div>
 
 ### Performance
