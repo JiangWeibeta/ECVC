@@ -3,7 +3,8 @@
 <h3>ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression</h3>
 
 [![arXiv](https://img.shields.io/badge/arXiv-<2410.09706>-<COLOR>.svg)](https://arxiv.org/abs/2410.09706)
-
+[![Camera Ready Paper](https://img.shields.io/badge/Paper-<CameraReady>-blue.svg)](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_ECVC_Exploiting_Non-Local_Correlations_in_Multiple_Frames_for_Contextual_Video_CVPR_2025_paper.pdf)
+[![Camera Ready Paper](https://img.shields.io/badge/Supp-<CameraReady>-blue.svg)](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Jiang_ECVC_Exploiting_Non-Local_CVPR_2025_supplemental.pdf)
 </div>
 
 ### Performance
