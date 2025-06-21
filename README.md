@@ -20,13 +20,12 @@ If you have any questions about ECVC, please contact Wei Jiang ( wei.jiang1999@o
 ### Cite
 
 ```
-@InProceedings{jiang2025ecvc,
-    author    = {Jiang, Wei and Li, Junru and Zhang, Kai and Zhang, Li},
-    title     = {ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression},
-    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
-    month     = {June},
-    year      = {2025},
-    pages     = {7331-7341}
+@inproceedings{jiang2025ecvc,
+  title={Ecvc: Exploiting non-local correlations in multiple frames for contextual video compression},
+  author={Jiang, Wei and Li, Junru and Zhang, Kai and Zhang, Li},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={7331--7341},
+  year={2025}
 }
 ```
 
