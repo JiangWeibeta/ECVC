@@ -33,7 +33,7 @@ If you have any questions about ECVC, please contact Wei Jiang ( wei.jiang1999@o
 @inproceedings{jiang2025biecvc,
   title={BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression},
   author={Jiang, Wei and Li, Junru and Zhang, Kai and Zhang, Li},
-  booktitle={Proceedings of the ACM International Conference on Multimedi},
+  booktitle={Proceedings of the ACM International Conference on Multimedia},
   year={2025}
 }
 ```
